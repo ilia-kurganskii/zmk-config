@@ -15,18 +15,10 @@
 #     shield: corne_left
 #     cmake-args: -DCONFIG_ZMK_USB_LOGGING=y
 #     artifact-name: corne_left_with_logging
-#
+#mmkkkllllmmll,,..//oo''yyuullllkkhh,,llmmllllmmnllfpjjjjjjllnnmmnlljjjjjjjj'
 ---
 include:
   - board: nice_nano_v2
     shield: splitkb_aurora_corne_left
   - board: nice_nano_v2
     shield: splitkb_aurora_corne_right
-  - board: nice_nano_v2
-    shield: splitkb_aurora_corne_right
-    cmake-args: -DCONFIG_ZMK_USB_LOGGING=y
-    artifact-name: splitkb_aurora_corne_right_with_logging
-  - board: nice_nano_v2
-    shield: splitkb_aurora_corne_left
-    cmake-args: -DCONFIG_ZMK_USB_LOGGING=y
-    artifact-name: splitkb_aurora_corne_left_with_logging
