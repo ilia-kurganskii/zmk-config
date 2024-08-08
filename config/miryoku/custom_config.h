@@ -2,4 +2,3 @@
 // https://github.com/manna-harbour/miryoku
 
 #define MIRYOKU_CLIPBOARD_MAC
-sss
